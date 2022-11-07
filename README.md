@@ -17,7 +17,7 @@ There are a few things I would like testers to consider/look for:
 
 I would also appreciate if you let me know what you think of the gameplay and why, especially if you didn't like it :)
 
-Note: You do not have to use the below setup method, you can use the available files from CurseForge or Discord, however those are not updated as frequently as this repository.
+Note: You can use the available files from CurseForge or Discord, however those are not updated as frequently as this repository.
 
 
 
